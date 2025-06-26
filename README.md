@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kaif</h1>
 
-Welcome to my GitHub profile!
-
 ## 🚀 About Me
 
 - 💻 I’m passionate about software development and open-source.
@@ -44,12 +42,22 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-![Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaif77&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif77&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=kaif77&theme=tokyonight)
-![Kaif's Trophies](https://github-profile-trophy.vercel.app/?username=kaif77&theme=onestar&no-frame=true&column=7)
+<div align="center">
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif77&layout=compact&theme=radical)  
+
+</div>
+
+<div align="center">
+
+  ![Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaif77&show_icons=true&theme=radical)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=kaif77&theme=tokyonight)
+
+</div>
+
+![Kaif's Trophies](https://github-profile-trophy.vercel.app/?username=kaif77&theme=onestar&no-frame=true&column=9)
+
 ![Kaif's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaif77&theme=github-compact)
-<!-- ![Visitors](https://komarev.com/ghpvc/?username=kaif77&color=blue&style=flat) -->
 
 ---
 
