@@ -49,8 +49,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaif77&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=kaif77&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaif77&show_icons=true&theme=radical" height="180px"/>&nbsp;<img src="https://streak-stats.demolab.com?user=kaif77&theme=tokyonight" height="180px"/>
 </div>
 
 ![Kaif's Trophies](https://github-profile-trophy.vercel.app/?username=kaif77&theme=onestar&no-frame=true&column=9)
