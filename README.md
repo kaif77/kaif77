@@ -6,7 +6,7 @@
 - 🌱 Currently learning and exploring new technologies.
 - 📫 How to reach me: [Email Me](mailto:kaifmk77@gmail.com)
 - 🏆 Always looking for opportunities to collaborate on exciting projects.
-- ⚡ Fun fact **I once tried to 'Ctrl+Z' in real life after spilling coffee... it didn't work ☕**
+- ⚡ Fun fact: **My coding superpower! Bugs vanish the moment I try to debug them. ✨ The "works on my machine" paradox is real! 😅**
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
