@@ -44,15 +44,13 @@
 
 <div align="center">
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif77&layout=compact&theme=radical)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif77&layout=compact&theme=radical" height="200px" width="400px"/>
 
 </div>
 
 <div align="center">
-
-  ![Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaif77&show_icons=true&theme=radical)
-  ![GitHub Streak](https://streak-stats.demolab.com?user=kaif77&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kaif77&show_icons=true&theme=radical" height="200px"/>
+  <img src="https://streak-stats.demolab.com?user=kaif77&theme=tokyonight" height="200px"/>
 </div>
 
 ![Kaif's Trophies](https://github-profile-trophy.vercel.app/?username=kaif77&theme=onestar&no-frame=true&column=9)
